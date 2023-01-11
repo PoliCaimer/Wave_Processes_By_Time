@@ -1,5 +1,5 @@
 Publish data
- where sch = '1220_B2B_54_JOBBER_20_2'
+ where sch = 'place for waveID'
 |
 [select data1.schbat AS FALA,
         data1.w_systemie,
